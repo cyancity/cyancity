@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" role="img" aria-labelledby="t">
+  <title id="t">hy2-proxy-setup: Hysteria 2 server and client rules</title>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b2730"/><stop offset="1" stop-color="#0d2422"/></linearGradient></defs>
+  <rect x="1" y="1" width="798" height="498" rx="18" fill="url(#bg)" stroke="#30363d" stroke-width="2"/>
+  <g transform="translate(400 200)" fill="none" stroke="#22d3ee" stroke-width="10" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M0 -92 L78 -62 V6 C78 56 44 88 0 106 C-44 88 -78 56 -78 6 V-62 Z"/>
+    <path d="M-34 4 L-10 28 L36 -22"/>
+  </g>
+  <text x="400" y="380" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#e6fffb">Hysteria 2</text>
+  <text x="400" y="428" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, Menlo, monospace" font-size="24" letter-spacing="2" fill="#5eead4">server · client rules · leak hardening</text>
+</svg>
