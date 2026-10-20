@@ -12,7 +12,7 @@
       </picture>
       <a href="https://github.com/cyancity/curated-agent-skills"><b>curated-agent-skills</b></a><br>
       <sub><b>主推</b> · 找包工头点这里</sub><br>
-      <sub>✅ 审阅脱敏 · ⚠️ 需装 Herdr</sub>
+      <sub>✅ 审阅脱敏 · ⚠️ 先装 Herdr</sub>
     </td>
     <td width="25%" valign="top">
       <picture>
@@ -20,8 +20,8 @@
         <img src="assets/easy-unlocker-light.png" width="100%" alt="easy-unlocker logo">
       </picture>
       <a href="https://github.com/cyancity/easy-unlocker"><b>easy-unlocker</b></a><br>
-      <sub>主力 · 手机上批准密钥</sub><br>
-      <sub>✅ 明文不进对话 · ⚠️ 桌面仅测 Windows</sub>
+      <sub>主力 · 手机批密钥</sub><br>
+      <sub>✅ 明文不进对话 · ⚠️ 桌面仅 Windows</sub>
     </td>
     <td width="25%" valign="top">
       <picture>
@@ -30,7 +30,7 @@
       </picture>
       <a href="https://github.com/cyancity/yolo-bot"><b>yolo-bot</b></a><br>
       <sub>主力 · 数字员工团队</sub><br>
-      <sub>✅ 员工有记忆 · ⚠️ 绑 DSH 0.2.1-rc.2</sub>
+      <sub>✅ 员工有记忆 · ⚠️ 绑 DSH rc</sub>
     </td>
     <td width="25%" valign="top">
       <picture>
