@@ -3,6 +3,11 @@
   <img src="assets/banner-light.svg" width="100%" alt="YOLO: I build tools that let AI agents do real work without being handed your secrets. Stack: TypeScript, React, Node.js, Go, Kotlin, Swift, Python, Shell, Cloudflare Workers.">
 </picture>
 
+<p align="center">
+  <b>找“包工头”skill？</b> 在这里 → <a href="https://github.com/cyancity/curated-agent-skills/tree/main/skills/herdr-subagent"><code>herdr-subagent</code></a><br>
+  <sub>Act as the foreman: hand independent work to other CLI agents, watch progress, then verify every delivery.</sub>
+</p>
+
 <table>
   <tr>
     <td width="25%" valign="top">
