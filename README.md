@@ -12,7 +12,7 @@
     <td colspan="2" valign="top">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg">
-        <img src="assets/skills-light.svg" width="100%" alt="两个已审阅技能：dycopy 用于媒体归档，包工头（herdr-subagent）用于 agent 协作">
+        <img src="assets/skills-light.svg" width="960" alt="两个已审阅技能：dycopy 用于媒体归档，包工头（herdr-subagent）用于 agent 协作">
       </picture>
       <br><br>
       <b>01 · <a href="https://github.com/cyancity/curated-agent-skills">curated-agent-skills</a></b> <sub>SKILL.md · JSON · MIT</sub><br>
