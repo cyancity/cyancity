@@ -12,9 +12,9 @@
       </picture>
       <a href="https://github.com/cyancity/curated-agent-skills"><b>curated-agent-skills</b></a><br>
       <sub><b>主推</b> · 找包工头点这里</sub><br>
-      <sub>审阅脱敏，agent 按 catalog.json 自取。</sub><br>
+      <sub>两枚 skill，审阅脱敏后公开。</sub><br>
       <sub>✅ 包工头派活并验收</sub><br><sub>⚠️ 2 个 skill，先装 Herdr</sub><br>
-      <sub><b>适合</b> 跨 CLI 派活、独立审查、长任务<br><b>不适合</b> 单文件小改和短问答</sub><br>
+      <sub><b>适合</b> 跨 CLI 派活、长任务<br><b>不适合</b> 单文件小改</sub><br>
       <sub>→ <a href="https://github.com/cyancity/curated-agent-skills/tree/main/skills/herdr-subagent">包工头</a> · <a href="https://github.com/cyancity/curated-agent-skills">全部</a></sub>
     </td>
     <td width="25%" valign="top">
