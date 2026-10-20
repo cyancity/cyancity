@@ -21,7 +21,7 @@
       </picture>
       <a href="https://github.com/cyancity/easy-unlocker"><b>easy-unlocker</b></a><br>
       <sub>主力 · 手机批密钥</sub><br>
-      <sub>✅ 明文不进对话 · ⚠️ 桌面仅 Windows</sub>
+      <sub>✅ 明文不进对话 · ⚠️ 桌面仅 Win</sub>
     </td>
     <td width="25%" valign="top">
       <picture>
