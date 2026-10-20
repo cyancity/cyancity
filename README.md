@@ -31,8 +31,8 @@
     </td>
     <td width="25%" valign="top">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/yolo-bot-dark.png">
-        <img src="assets/yolo-bot-light.png" width="100%" alt="yolo-bot channel view with the Lead and employees">
+        <source media="(prefers-color-scheme: dark)" srcset="assets/yolo-bot-dark.svg">
+        <img src="assets/yolo-bot-light.svg" width="100%" alt="yolo-bot：负责人派活给员工">
       </picture>
       <a href="https://github.com/cyancity/yolo-bot"><b>yolo-bot</b></a><br>
       <sub><b>主力</b> · 数字员工团队</sub><br>
