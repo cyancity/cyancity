@@ -5,39 +5,41 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg">
         <img src="assets/skills-light.svg" width="100%" alt="包工头（herdr-subagent）：把独立任务派给其他 CLI agent">
       </picture>
-      <b>01 · <a href="https://github.com/cyancity/curated-agent-skills">curated-agent-skills</a></b> <sub>主推 · 找包工头点这里</sub><br>
-      <sub>✅ 审阅脱敏后才公开，agent 按 catalog 自取 · ⚠️ 2 个 skill，要先装 Herdr CLI</sub>
+      <a href="https://github.com/cyancity/curated-agent-skills"><b>curated-agent-skills</b></a><br>
+      <sub><b>主推</b> · 找包工头点这里</sub><br>
+      <sub>✅ 审阅脱敏 · ⚠️ 需装 Herdr</sub>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="assets/easy-unlocker-dark.png">
         <img src="assets/easy-unlocker-light.png" width="100%" alt="easy-unlocker logo">
       </picture>
-      <b>02 · <a href="https://github.com/cyancity/easy-unlocker">easy-unlocker</a></b> <sub>主力</sub><br>
-      <sub>✅ 手机上批准密钥，明文不进对话 · ⚠️ 桌面端只测过 Windows</sub>
+      <a href="https://github.com/cyancity/easy-unlocker"><b>easy-unlocker</b></a><br>
+      <sub>主力 · 手机上批准密钥</sub><br>
+      <sub>✅ 明文不进对话 · ⚠️ 桌面仅测 Windows</sub>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="assets/yolo-bot-dark.png">
         <img src="assets/yolo-bot-light.png" width="100%" alt="yolo-bot channel view with the Lead and employees">
       </picture>
-      <b>03 · <a href="https://github.com/cyancity/yolo-bot">yolo-bot</a></b> <sub>主力</sub><br>
-      <sub>✅ 员工各有模型、skill 和记忆 · ⚠️ 绑 DSH 0.2.1-rc.2</sub>
+      <a href="https://github.com/cyancity/yolo-bot"><b>yolo-bot</b></a><br>
+      <sub>主力 · 数字员工团队</sub><br>
+      <sub>✅ 员工有记忆 · ⚠️ 绑 DSH 0.2.1-rc.2</sub>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="assets/hy2-proxy-setup-dark.svg">
         <img src="assets/hy2-proxy-setup-light.svg" width="100%" alt="hy2-proxy-setup shield icon">
       </picture>
-      <b>04 · <a href="https://github.com/cyancity/hy2-proxy-setup">hy2-proxy-setup</a></b> <sub>工具</sub><br>
-      <sub>✅ 一条命令装完，带防泄露 · ⚠️ 需自备 VPS，纯脚本</sub>
+      <a href="https://github.com/cyancity/hy2-proxy-setup"><b>hy2-proxy-setup</b></a><br>
+      <sub>工具 · 一键装服务端</sub><br>
+      <sub>✅ 带防泄露 · ⚠️ 需自备 VPS</sub>
     </td>
   </tr>
 </table>
