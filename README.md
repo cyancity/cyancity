@@ -14,6 +14,7 @@
       <sub><b>主推</b> · 找包工头点这里</sub><br>
       <sub>审阅脱敏，agent 按 catalog.json 自取。</sub><br>
       <sub>✅ 包工头派活并验收</sub><br><sub>⚠️ 2 个 skill，先装 Herdr</sub><br>
+      <sub><b>适合</b> 跨 CLI 派活、独立审查、长任务<br><b>不适合</b> 单文件小改和短问答</sub><br>
       <sub>→ <a href="https://github.com/cyancity/curated-agent-skills/tree/main/skills/herdr-subagent">包工头</a> · <a href="https://github.com/cyancity/curated-agent-skills">全部</a></sub>
     </td>
     <td width="25%" valign="top">
@@ -25,6 +26,7 @@
       <sub><b>主力</b> · 手机批密钥</sub><br>
       <sub>指纹在手机上批准，密钥直达进程。</sub><br>
       <sub>✅ 明文不进对话和磁盘</sub><br><sub>⚠️ 桌面仅 Win 实测</sub><br>
+      <sub><b>适合</b> 无屏服务器、CI 里取密钥<br><b>不适合</b> 当日常密码管理器</sub><br>
       <sub>→ <a href="https://github.com/cyancity/easy-unlocker/releases/latest">下载</a> · <a href="https://easy-unlocker.pages.dev/">站点</a></sub>
     </td>
     <td width="25%" valign="top">
@@ -36,6 +38,7 @@
       <sub><b>主力</b> · 数字员工团队</sub><br>
       <sub>说一句需求，负责人拆解派工。</sub><br>
       <sub>✅ 员工各有模型和记忆</sub><br><sub>⚠️ 绑 DSH 0.2.1-rc.2</sub><br>
+      <sub><b>适合</b> 多步骤调研、整理加出稿<br><b>不适合</b> 偶尔问一两句</sub><br>
       <sub>→ <a href="https://github.com/cyancity/yolo-bot/releases">下载</a> · <a href="https://github.com/cyancity/yolo-bot#快速开始">快速开始</a></sub>
     </td>
     <td width="25%" valign="top">
@@ -47,6 +50,7 @@
       <sub><b>工具</b> · 一键装节点</sub><br>
       <sub>可交给 agent 执行的 Hysteria 2 SOP。</sub><br>
       <sub>✅ 一键装完，带防泄露</sub><br><sub>⚠️ 需自备 VPS，纯脚本</sub><br>
+      <sub><b>适合</b> 自建节点、要防泄露分流<br><b>不适合</b> 没有自己的服务器</sub><br>
       <sub>→ <a href="https://github.com/cyancity/hy2-proxy-setup">部署指南</a></sub>
     </td>
   </tr>
