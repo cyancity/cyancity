@@ -7,8 +7,8 @@
   <tr>
     <td width="25%" valign="top">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg?v=3">
-        <img src="assets/skills-light.svg?v=3" width="100%" alt="包工头（herdr-subagent）：把独立任务派给其他 CLI agent">
+        <source media="(prefers-color-scheme: dark)" srcset="assets/package-dark.svg">
+        <img src="assets/package-light.svg" width="100%" alt="包工头（herdr-subagent）：把独立任务派给其他 CLI agent">
       </picture>
       <a href="https://github.com/cyancity/curated-agent-skills"><b>curated-agent-skills</b></a><br>
       <sub><b>主推</b> · 找包工头点这里</sub><br>
