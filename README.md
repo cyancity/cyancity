@@ -44,6 +44,4 @@
   </tr>
 </table>
 
-<sub>自用：<a href="https://github.com/cyancity/kindle-gadget">kindle-gadget</a>（越狱 Kindle 看板）· <a href="https://github.com/cyancity/easy-unlocker-site">easy-unlocker-site</a> · <a href="https://github.com/cyancity/dycopy-public">dycopy-public</a></sub>
-
-<p align="center"><sub>Docs an agent can run end to end · verified and unverified stated plainly · secrets never in the chat</sub></p>
+<p align="center"><sub>自用：<a href="https://github.com/cyancity/kindle-gadget">kindle-gadget</a>（越狱 Kindle 看板）· <a href="https://github.com/cyancity/easy-unlocker-site">easy-unlocker-site</a> · <a href="https://github.com/cyancity/dycopy-public">dycopy-public</a></sub></p>
